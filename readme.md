@@ -8,3 +8,4 @@ jupyter lab --no-browser
 google-chrome --app=http://localhost:8888
 ```
 
+https://github.com/lucidfrontier45/PyTorch-Book
