@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 env/
-data/
+FashionMNIST/
+taco_and_burrito.tar.gz
+taco_and_burrito/

@@ -4,8 +4,7 @@
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-jupyter lab --no-browser
-google-chrome --app=http://localhost:8888
+jupyter lab
 ```
 
 https://github.com/lucidfrontier45/PyTorch-Book
