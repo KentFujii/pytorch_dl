@@ -1,5 +1,9 @@
 .ipynb_checkpoints/
 env/
 FashionMNIST/
-taco_and_burrito.tar.gz
 taco_and_burrito/
+lfw-deepfunneled/
+oxford-102/
+oxford-102-gen/
+*.tgz
+*.gz
