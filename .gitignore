@@ -5,5 +5,6 @@ taco_and_burrito/
 lfw-deepfunneled/
 oxford-102/
 oxford-102-gen/
+aclImdb/
 *.tgz
 *.gz
