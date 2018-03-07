@@ -6,5 +6,6 @@ lfw-deepfunneled/
 oxford-102/
 oxford-102-gen/
 aclImdb/
+tinyshakespeare.txt
 *.tgz
 *.gz
