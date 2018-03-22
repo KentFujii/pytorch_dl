@@ -11,4 +11,5 @@ fi
 
 tar -zxvf 102flowers.tgz
 mkdir oxford-102/
+mkdir oxford-102-gen/
 mv jpg/ oxford-102/
